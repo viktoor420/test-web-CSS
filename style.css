@@ -78,26 +78,18 @@ body {
 /* Footer */
 .footer {
   padding: 20px;
-  text-align: center;
   background: #474747;
 }
 
 /* Center the text */
 .footer p {
   text-align: center;
-  
-  /* Set the font size and color */
   font-size: 14px;
   color: #d8d8d8;
 }
 
-/* Set the link color */
-.footer a {
-  color: #008080;
-}
-
-  /* Basic styles for the post */
-  .post {
+/* Basic styles for the post */
+.post {
   margin-bottom: 20px;
   padding: 20px;
   background-color: #fff;
