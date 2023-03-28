@@ -12,7 +12,7 @@ body {
 .header {
   padding: 110px;
   text-align: center;
-  background-image: url("./images/landscape.jpg");
+  background-image: url("./images/landscape-test-css.jpg");
 }
 
 /* Increase the font size of the heading */
@@ -64,8 +64,9 @@ body {
 /* Sidebar/left column */
 .side {
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: #000000;
   padding: 20px;
+  color: white;
 }
 
 /* Main column */
